@@ -123,7 +123,7 @@ In this assignment, you will use the following tools to analyze the test data pr
 -  RDC-11 (an EXCEL worksheet and macro). 
 ## 3.3 SYSTEM UNDER TEST
 
-The system to be tested for this part is a hypothetical system and its failure data is attached([failure-dataset-a5.zip](./failure-dataset-a5.zip)).  You may need to change the dataset format.
+The system to be tested for this part is a hypothetical system and its failure data is attached([failure-data-a5.zip](failure-data-a5.zip)).  You may need to change the dataset format.
 
 ## 3.4 FAMILIARIZATION
 
