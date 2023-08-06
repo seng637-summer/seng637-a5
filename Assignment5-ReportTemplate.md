@@ -1,4 +1,4 @@
-**SENG 438- Software Testing, Reliability, and Quality**
+**SENG 637- Dependability and Reliability of Software Systems***
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
