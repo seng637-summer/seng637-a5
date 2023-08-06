@@ -49,11 +49,11 @@ The testing tool to be used in this part, is
 
 ## 2.3 SYSTEM UNDER TEST
 
-The system to be tested for this part is a hypothetical system and its failure data is attached ([failure-data-a5.zip](./failure-data-a5.zip)). 
+The system to be tested for this part is a hypothetical system and its failure data is attached ([failure-data-a5.zip](failure-data-a5.zip)). 
 
 **Note**:
   - If you want to use CASRE you <mark>may need to change the dataset </mark>. 
-  - Read readme.txt in failure-dataset-a5.zip to learn about the dataset format
+  - Read readme.txt in failure-data-a5.zip to learn about the dataset format
 
 ## 2.4 FAMILIARIZATION
 
